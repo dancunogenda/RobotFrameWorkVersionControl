@@ -30,5 +30,5 @@ FifthTest
     
 SixthTest
     Log    This is the sixth test
- SeventhTest
-    Log    This is the seventh test
+SeventhTest
+    Log    This is the seventh test added just now
